@@ -98,4 +98,3 @@ Este projeto é de código aberto e está disponível para uso educacional.
 ---
 
 **Desenvolvido com ❤️ usando Python e PyAutoGUI**
-# automacao-python
