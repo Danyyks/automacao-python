@@ -4,7 +4,7 @@ Criei um script em Python que automatiza o cadastro de produtos em um sistema we
 
 ## O que ele faz?
 
-Quando o script é executado, ele:
+Quando o script é executado, ele:  
 **Abre o navegador:** Inicia automaticamente o Google Chrome.  
 **Faz login:** Acessa o sistema com credenciais configuradas.  
 **Lê o csv:** Importa os dados dos produtos a partir de um arquivo CSV.  
