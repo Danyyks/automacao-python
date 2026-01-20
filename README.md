@@ -30,9 +30,9 @@ Quando o script é executado, ele:
 ## Requisitos
 
 Python 3.x  
-Biblioteca pyautogui (`pip install pyautogui`)
-Navegador Google Chrome
-Sistema web acessível via navegador
+Biblioteca pyautogui (`pip install pyautogui`)  
+Navegador Google Chrome  
+Sistema web acessível via navegador  
 Windows (sistema testado)
 
 ## Como usar
